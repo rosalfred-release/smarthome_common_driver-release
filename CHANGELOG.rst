@@ -2,6 +2,11 @@
 Changelog for package smarthome_common_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.61 (2016-06-05)
+-------------------
+* Add rosjava_messages dependency
+* Contributors: Erwan Le Huitouze
+
 0.1.60 (2016-05-31)
 -------------------
 * Rename package to smarthome_common_driver
